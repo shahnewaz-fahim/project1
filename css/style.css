@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Lobster', cursive;
+
+    
+}
+h2{
+    font-family: 'Lobster', cursive;
+    ;
+}
+
+h3{
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+h4{
+    font-family: 'ZCOOL You', cursive;
+   
+}
+
+h5{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+    font-size: 20px;
+}
+
+p{
+    background-color: rgb(233, 64, 64);
+
+    color: white;
+}
+
+div {
+    height: 10px;
+    width: 90%;}
